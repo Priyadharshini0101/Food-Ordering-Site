@@ -9,4 +9,4 @@ valuable time,it is also very efficient.
 in our daily life..So,use it effectively."
 ##subheader
 #local development
-1.Open index.html in your browser
+
